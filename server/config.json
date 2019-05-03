@@ -1,0 +1,10 @@
+{
+    "SECRET": "9B702274B1EB5F8B6C2167109703D0E3C8EE1E3DE4BCD6999F78F6CBC3392943",
+    
+    "EMAIL":{
+        "HOST":"",
+        "PORT":"",
+        "USER":"",
+        "PASS":""
+    }
+}
